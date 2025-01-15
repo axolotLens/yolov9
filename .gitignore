@@ -1,6 +1,7 @@
 /runs
 /data/images
 /data/labels
+/weights
 *.cache
 # Byte-compiled / optimized / DLL files
 __pycache__/
